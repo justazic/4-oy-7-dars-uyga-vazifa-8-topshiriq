@@ -43,3 +43,22 @@ def dastur():
 # git init - bo'sh repo boshlab beradi
 # repo (ma'lumot ombori) - dastur
 # versiyalari qayd etib boriladigan joydir
+
+# git add - file(lar) ni kuzatuv/kontrol ga olish
+
+# git commit - kuzatuvdagi/kontroldagi fayl(lar)ni
+# qayd etish / qayd ostiga olish
+
+#git remote add origin https://github.com/justazic/4-oy-7-dars-uyga-vazifa-8-topshiriq.git
+#origin nomli cloud repo qoshdik
+#uning lokatsiyasi https://github.com/justazic/4-oy-7-dars-uyga-vazifa-8-topshiriq.git ekan
+
+#git branch
+
+# git status
+
+#git remote -v
+
+# git commit -m "qayd xabari/izohi"
+
+# git add .
